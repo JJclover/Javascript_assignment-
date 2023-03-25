@@ -2,7 +2,8 @@
 
 A simple yet functional e-commerce website for browsing and purchasing anime-related products.
 
-[A link to the project] (javascript-assignment-eight.vercel.app)
+[Link to the project](https://javascript-assignment-eight.vercel.app)
+
 
 ## Project Description
 
