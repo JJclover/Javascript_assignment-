@@ -1,0 +1,103 @@
+[
+    {
+      "image": "images/Xnaruto1.jpeg",
+      "title": "Naruto",
+      "description": "Naruto manga Volume 1",
+      "rating": 5,
+      "price": 15
+    },
+    {
+      "image": "images/Xonepiece1.jpeg",
+      "title": "One Piece",
+      "description": "One Piece manga volume 2",
+      "rating": 5,
+      "price": 25
+    },
+
+    {
+      "image": "images/Xonepiece5.jpeg",
+      "title": "One Piece",
+      "description": "One Piece manga volume 3",
+      "rating": 3,
+      "price": 20
+    },
+    
+
+    
+      {
+        "image": "images/Xbleach1.jpeg",
+        "title": "Bleach",
+        "description": "Bleach manga Volume 1",
+        "rating": 5,
+        "price": 15
+      },
+
+      {
+        "image": "images/Xnaruto2.jpeg",
+        "title": "Naruto ",
+        "description": "Naruto manga volume 2",
+        "rating": 5,
+        "price": 10
+      },
+  
+      {
+        "image": "images/Xonepiece3.jpeg",
+        "title": "One Piece",
+        "description": "One Piece manga volume 1",
+        "rating": 3,
+        "price": 20
+      },
+      
+
+      {
+        "image": "images/Xbleach2.jpeg",
+        "title": "Bleach",
+        "description": "Bleach manga Volume 2",
+        "rating": 5,
+        "price": 15
+      },
+      {
+        "image": "images/Xnaruto3.jpeg",
+        "title": "Naruto",
+        "description": "Naruto manga volume 3",
+        "rating": 5,
+        "price": 25
+      },
+  
+      {
+        "image": "images/Xbleach3.jpeg",
+        "title": "Bleach",
+        "description": "Bleach manga volume 3",
+        "rating": 3,
+        "price": 20
+      }
+      ,
+      
+
+      {
+        "image": "images/Xonepiece4.jpeg",
+        "title": "One Piece",
+        "description": "One Piece Volume 4",
+        "rating": 5,
+        "price": 20
+      },
+      {
+        "image": "images/Xnaruto4.jpeg",
+        "title": "Naruto",
+        "description": "Naruto manga volume 4",
+        "rating": 5,
+        "price": 15
+      },
+  
+      {
+        "image": "images/Xbleach4.jpeg",
+        "title": "Bleach",
+        "description": "Bleach manga volume 4",
+        "rating": 3,
+        "price": 25
+      }
+
+
+    
+    
+  ]
